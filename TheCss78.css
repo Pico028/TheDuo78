@@ -25,6 +25,7 @@
 	left:0;
 	background:black
 	
+	
 	}
 	
 .menu ul{
@@ -90,10 +91,58 @@
 .TexteNousHugo{
 	font-size:175% ;
 	color : black;
-	top:450px;
+	top:400px;
 	position:absolute;
 	font-family: 'arial';
 	color:green;
 	z-index:1;
 	
 }
+
+
+.Texte4{
+	font-size:125% ;
+	color : black;
+	top:400px;
+	position:absolute;
+	font-family: 'arial';
+	z-index:1;
+	
+	
+}
+
+.Texte2Y{
+	font-size:125% ;
+	color : black;
+	top:325px;
+	position:absolute;
+	font-family: 'arial';
+	z-index:1;
+	
+	
+}
+
+
+
+
+
+
+.Texte3Y{
+	font-size:125% ;
+	color : black;
+	top:350px;
+	position:absolute;
+	font-family: 'arial';
+	z-index:1;
+	
+	
+}
+
+
+.scratch{
+	left:40%;
+	top:300px;
+	position:absolute;
+	z-index:1;
+	size=200%
+	}
