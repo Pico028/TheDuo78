@@ -1,0 +1,99 @@
+.TkFond {
+	background-color:white;
+	}
+.Image {
+	left:70%;
+	top:300px;
+	position:absolute;
+	z-index:1;
+	}
+.Titre{
+	font-family: "Arial white";
+	text-align : center ;
+	font-size:300% ;
+	color : black;
+	top:120px;
+	left:42%;
+	position:absolute;
+	
+}
+.menu {
+	position:fixed; 
+	position:absolute;
+	z-index:2	
+	top:0;
+	left:0;
+	background:black
+	
+	}
+	
+.menu ul{
+	display:flex;
+	list-style:none;
+	
+	
+	
+	
+}
+
+.menu li a{
+	text-decoration:none;
+	color:white;
+	padding: 10px 300px ;
+	display:block;
+	font-size:150% ;
+	
+	
+}
+
+.square {
+	
+	top:500;
+	left:0;
+	height:100px;
+	background:black;
+	color:black;
+	opacity:0.5;
+	}
+
+.vid {
+	
+	position:center;
+	position: absolute;
+	top: 150px;
+	left: 25%; 
+}
+
+.Texte{
+	
+	font-size:175% ;
+	color : black;
+	top:250px;
+	position:absolute;
+	font-family: 'arial';
+	color:green;
+	z-index:1;
+	
+}
+
+.Texte2{
+	font-size:125% ;
+	color : black;
+	top:300px;
+	position:absolute;
+	font-family: 'arial';
+	z-index:1;
+	
+	
+}
+
+.TexteNousHugo{
+	font-size:175% ;
+	color : black;
+	top:450px;
+	position:absolute;
+	font-family: 'arial';
+	color:green;
+	z-index:1;
+	
+}
